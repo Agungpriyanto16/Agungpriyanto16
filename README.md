@@ -8,4 +8,4 @@ Saya senang menciptakan antarmuka web yang menarik, responsif, dan mudah digunak
 
 Saya percaya bahwa desain yang baik adalah kunci untuk menciptakan pengalaman pengguna yang optimal. Oleh karena itu, saya selalu berusaha meningkatkan kemampuan saya untuk menghadirkan solusi kreatif dan inovatif di setiap proyek. Selain belajar, saya aktif mengikuti berbagai pelatihan, workshop, dan proyek kolaborasi untuk terus belajar dan mengasah keterampilan saya di dunia teknologi. <br>
 
-Jika kamu tertarik untuk mengenal saya lebih jauh, silakan kunjungi akun [Github](https://github.com/Agungpriyanto16) saya ya.
+Jika kamu tertarik untuk mengenal saya lebih jauh, silakan kunjungi akun [Gitlab](https://gitlab.com/Agungpriyanto166) saya ya.
