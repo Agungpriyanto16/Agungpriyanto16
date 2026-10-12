@@ -11,7 +11,7 @@ I'm also familiar with backend technologies such as Node.js, Express.js, PHP, an
 
 I'm continuously improving my skills through hands-on projects and independent learning.
 
-### GitHub Statistic
+### GitHub Statistics
 <p align="left">
 <a href="https://github.com/Agungpriyanto16">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=penuliscode&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
