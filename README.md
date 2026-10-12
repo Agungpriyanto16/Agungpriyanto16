@@ -5,7 +5,7 @@ My name is **Agung Priyanto**.
 
 I'm an Informatics graduate from Universitas 17 Agustus 1945 Surabaya with a strong interest in frontend development.
 
-I enjoy building modern, responsive, and user-friendly web interfaces using HTML, CSS, JavaScript, React.js, and Tailwind CSS.
+I enjoy building modern, responsive, and user-friendly web interfaces using React.js, JavaScript, and Tailwind CSS.
 
 I'm also familiar with backend technologies such as Node.js, Express.js, PHP, and Laravel. Currently, I'm learning Next.js to expand my frontend development skills.
 
