@@ -1,14 +1,16 @@
-# Halo semua! 
 
-Perkenalkan nama saya **Agung Priyanto**.<br>
+# Hi everyone! 👋
 
-Saya seorang Mahasiswa Universitas 17 Agustus (UNTAG) yang memiliki passion besar dalam pengembangan frontend. <br>
+My name is **Agung Priyanto**.
 
-Saya senang menciptakan antarmuka web yang menarik, responsif, dan mudah digunakan menggunakan teknologi modern seperti HTML, CSS, JavaScript, React.js, dan Tailwind CSS. <br>
+I'm an Informatics graduate from Universitas 17 Agustus 1945 Surabaya with a strong interest in frontend development.
 
-Saya percaya bahwa desain yang baik adalah kunci untuk menciptakan pengalaman pengguna yang optimal. Oleh karena itu, saya selalu berusaha meningkatkan kemampuan saya untuk menghadirkan solusi kreatif dan inovatif di setiap proyek. Selain belajar, saya aktif mengikuti berbagai pelatihan, workshop, dan proyek kolaborasi untuk terus belajar dan mengasah keterampilan saya di dunia teknologi. <br>
+I enjoy building modern, responsive, and user-friendly web interfaces using HTML, CSS, JavaScript, React.js, and Tailwind CSS.
 
-Jika kamu tertarik untuk mengenal saya lebih jauh, silakan kunjungi akun [Gitlab](https://gitlab.com/Agungpriyanto166) saya ya.
+I'm also familiar with backend technologies such as Node.js, Express.js, PHP, and Laravel. Currently, I'm learning Next.js to expand my frontend development skills.
+
+I'm continuously improving my skills through hands-on projects and independent learning.
+
 
 ### Github Statistic
 <p align="left">
